@@ -1,8 +1,6 @@
 # Object_Detection
 
-Object detection is a computer vision task that has become an integral part of many consumer applications today such as surveillance and security systems, mobile text recognition, and diagnosing diseases from MRI/CT scans.
-
-This project try to compare two or more different model for Obejct Detection. 
+My final project try to compare two or more different model for Obejct Detection. 
 
 # YOLOv8
 I am simply using `YOLOv8` models in a python environment with opencv on `Windows`, `Mac` or `Linux` system. It can be imported from the ultralytics module.
