@@ -13,5 +13,3 @@ You can get more information and install the model form the [Ultralytics YOLOv8]
 >
 > Install requirements.txt file in a Python>=3.7.0 environment, including PyTorch>=1.7
 
-# Second model
-I am trying to train a new model by myself and try to compare with the YOLOv8. For the future, I plan to revise my model to be fast and accurate.
