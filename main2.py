@@ -1,4 +1,6 @@
 #pip install ultralytics
+# comes from https://www.youtube.com/watch?v=hg4oVgNq7Do&t=358s
+# I did not use the numpy and I changed the videocapture from picture to the live camera.
 
 import cv2
 from ultralytics import YOLO

@@ -1,6 +1,8 @@
 # pip install opencv-contrib-python # opencv-python contains the main packages wheras the other
                                     # contains both main modules and contrib/extra modules
 # pip install cvlib # for object detection
+# coming from https://www.youtube.com/watch?v=V62M9d8QkYM&t=51s
+# I change the code for line 19 since if I did not change, the program can not work
 
 import cv2
 import cvlib as cv
